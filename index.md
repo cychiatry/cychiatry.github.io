@@ -1,5 +1,6 @@
-## Welcome to Cychiatry Lab
-### Lab for Computational and Digital Psychiatry
+# Welcome to Cychiatry Lab
+## Lab for Computational and Digital Psychiatry
+
 
 ## Job Openings
 Two Postdocs and Two PhD Students are Needed!
