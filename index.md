@@ -2,13 +2,13 @@
 ## Lab for Computational and Digital Psychiatry
 
 
-## Job Openings
+### Job Openings
 [Two Postdocs](https://github.com/cychiatry/cychiatry.github.io/blob/master/doc/postdoc.md) and [Two PhD Students](https://github.com/cychiatry/cychiatry.github.io/blob/master/doc/phd.md) are Needed!
 
 Please contact me for details: bcao2@ualberta.ca.
 
 
-## About the PI: Bo "Cloud" Cao
+### About the PI: Bo "Cloud" Cao
 [Google Scholar](https://scholar.google.ca/citations?user=GsGWZBgAAAAJ&hl=en)
 
 Trained in mathematics (BSc), psychology (MSc), computational neuroscience (PhD), neuroimaging and psychiatry (postdoc), I have a strong passion for understanding the fundamental mechanisms of how the brain works and how to cure the brain when the mechanisms are disturbed. I am always seeking young talents to work with as graduate students (Masters and PhD) and postdoctoral fellows. Please feel free to contact me if you are interested in joining our interdisciplinary group or collaborations.
