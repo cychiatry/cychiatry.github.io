@@ -11,6 +11,7 @@ Please check the advertisement below and contact me for details: bcao2@ualberta.
 <embed src="https://cychiatry.github.io/Cao phd advertisement 10262018.pdf" type="application/pdf" />
 
 
+
 ## About the PI: Bo "Cloud" Cao
 [Google Scholar](https://scholar.google.ca/citations?user=GsGWZBgAAAAJ&hl=en)
 
@@ -23,6 +24,7 @@ Trained in mathematics (BSc), psychology (MSc), computational neuroscience (PhD)
 2) Brain development and aging. Our brain is a very plastic organ that changes over the lifespan. It is necessary to consider the brain development and aging and associated cognitive change, when we investigate brain disorders. I am interested in lifespan structural and functional changes of the brain, developing personalized tools of brain development and aging, and applying these tools to the brain with mental disorders.
 
 3) Neuromodulation and neurofeedback.
+
 
 
 ## Selected Publications
