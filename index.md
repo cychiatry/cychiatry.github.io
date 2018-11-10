@@ -24,6 +24,7 @@ Trained in mathematics (BSc), psychology (MSc), computational neuroscience (PhD)
 
 
 **Selected Publications**
+
 Bo Cao, Raymond Y. Cho, Dachun Chen, Meihong Xiu, Jair C. Soares, Li Wang, Xiang Yang Zhang (2018). [Treatment response prediction and individualized identification of first-episode drug-naïve schizophrenia using brain functional connectivity](https://www.nature.com/articles/s41380-018-0106-5). Molecular Psychiatry. DOI: 10.1038/s41380-018-0106-5.
 
 Bo Cao, Qinghua Luo, Yixiao Fu, Lian Du, Tian Qiu, Xiangying Yang, Xiaolu Chen, Qibin Chen, Jair C Soares, Raymond Y Cho, Xiang Yang Zhang, Haitang Qiu (2018). [Predicting individual responses to the electroconvulsive therapy with hippocampal subfield volumes in major depression disorder](https://www.nature.com/articles/s41598-018-23685-9). Scientific Reports, Article Number: 5434 (2018). DOI:10.1038/S41598-018-23685-9.
