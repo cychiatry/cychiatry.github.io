@@ -13,7 +13,7 @@ Please contact me for details: bcao2@ualberta.ca.
 
 Trained in mathematics (BSc), psychology (MSc), computational neuroscience (PhD), neuroimaging and psychiatry (postdoc), I have a strong passion for understanding the fundamental mechanisms of how the brain works and how to cure the brain when the mechanisms are disturbed. I am always seeking young talents to work with as graduate students (Masters and PhD) and postdoctoral fellows. Please feel free to contact me if you are interested in joining our interdisciplinary group or collaborations.
 
-### My main research interests are:
+**My main research interests are**
 
 1) Computational psychiatry and precision medicine in mental health. I hope to develop translational tools that can provide accurate and personalized diagnosis and treatment optimization for mental disorders. This can be achieved by identifying objective biomarkers associated with mental disorders and their treatment outcomes through multimodal data including brain imaging, genetic, biological, behavioral, cognitive and clinical measurements, and by applying advanced machine learning and statistical algorithms to these data.
 
@@ -23,15 +23,15 @@ Trained in mathematics (BSc), psychology (MSc), computational neuroscience (PhD)
 
 
 
-### Selected Publications
-Bo Cao, Raymond Y. Cho, Dachun Chen, Meihong Xiu, Jair C. Soares, Li Wang, Xiang Yang Zhang (2018). Treatment response prediction and individualized identification of first-episode drug-naïve schizophrenia using brain functional connectivity. Molecular Psychiatry. DOI: 10.1038/s41380-018-0106-5.
+**Selected Publications**
+Bo Cao, Raymond Y. Cho, Dachun Chen, Meihong Xiu, Jair C. Soares, Li Wang, Xiang Yang Zhang (2018). [Treatment response prediction and individualized identification of first-episode drug-naïve schizophrenia using brain functional connectivity](https://www.nature.com/articles/s41380-018-0106-5). Molecular Psychiatry. DOI: 10.1038/s41380-018-0106-5.
 
-Bo Cao, Qinghua Luo, Yixiao Fu, Lian Du, Tian Qiu, Xiangying Yang, Xiaolu Chen, Qibin Chen, Jair C Soares, Raymond Y Cho, Xiang Yang Zhang, Haitang Qiu (2018). Predicting individual responses to the electroconvulsive therapy with hippocampal subfield volumes in major depression disorder. Scientific Reports, Article Number: 5434 (2018). DOI:10.1038/S41598-018-23685-9.
+Bo Cao, Qinghua Luo, Yixiao Fu, Lian Du, Tian Qiu, Xiangying Yang, Xiaolu Chen, Qibin Chen, Jair C Soares, Raymond Y Cho, Xiang Yang Zhang, Haitang Qiu (2018). [Predicting individual responses to the electroconvulsive therapy with hippocampal subfield volumes in major depression disorder](https://www.nature.com/articles/s41598-018-23685-9). Scientific Reports, Article Number: 5434 (2018). DOI:10.1038/S41598-018-23685-9.
 
-Bo Cao, Ives Cavalcante Passos, Benson Mwangi, Henrique Tomaz Do Amaral Silva, Jonika Tannous, Mon-Ju Wu, Giovana B. Zunta-Soares, Jair C. Soares (2017). Hippocampal subfield volumes in mood disorders. Molecular Psychiatry, 22, 1352-1358, DOI:10.1038/Mp.2016.262.
+Bo Cao, Ives Cavalcante Passos, Benson Mwangi, Henrique Tomaz Do Amaral Silva, Jonika Tannous, Mon-Ju Wu, Giovana B. Zunta-Soares, Jair C. Soares (2017). [Hippocampal subfield volumes in mood disorders](https://www.nature.com/articles/mp2016262). Molecular Psychiatry, 22, 1352-1358, DOI:10.1038/Mp.2016.262.
 
-Lianne Schmaal et al. (2017). Cortical abnormalities in adults and adolescents with major depression based on brain scans from 20 cohorts worldwide in the ENIGMA major depressive disorder working group. Molecular Psychiatry, 22 (6), 900.
+Lianne Schmaal et al. (2017). [Cortical abnormalities in adults and adolescents with major depression based on brain scans from 20 cohorts worldwide in the ENIGMA major depressive disorder working group](https://www.nature.com/articles/mp201660). Molecular Psychiatry, 22 (6), 900.
 
-Bo Cao, Benson Mwangi, Ives Cavalcante Passos, Mon-Ju Wu, Zafer Keser, Giovana B. Zunta-Soares, Dianping Xu, Khader M. Hasan, Jair C. Soares (2017). Lifespan gyrification trajectory of human brain in healthy individuals and patients with major psychiatric disorders. Scientific Reports, 7, Article Number: 511, DOI:10.1038/S41598-017-00582-1.
+Bo Cao, Benson Mwangi, Ives Cavalcante Passos, Mon-Ju Wu, Zafer Keser, Giovana B. Zunta-Soares, Dianping Xu, Khader M. Hasan, Jair C. Soares (2017). [Lifespan gyrification trajectory of human brain in healthy individuals and patients with major psychiatric disorders](https://www.nature.com/articles/s41598-017-00582-1). Scientific Reports, 7, Article Number: 511, DOI:10.1038/S41598-017-00582-1.
 
-Bo Cao, Benson Mwangi, Khader M. Hasan, Sudhakar Selvaraj, Cristian P. Zeni, Giovana B. Zunta-Soares, Jair C. Soares (2015). Development and validation of a brain maturation index using longitudinal neuroanatomical scans. Neuroimage, 2015 Aug 15; 117:311-8. DOI: 10.1016/J.Neuroimage.2015.05.071.
+Bo Cao, Benson Mwangi, Khader M. Hasan, Sudhakar Selvaraj, Cristian P. Zeni, Giovana B. Zunta-Soares, Jair C. Soares (2015). [Development and validation of a brain maturation index using longitudinal neuroanatomical scans](https://www.sciencedirect.com/science/article/pii/S1053811915004619). Neuroimage, 2015 Aug 15; 117:311-8. DOI: 10.1016/J.Neuroimage.2015.05.071.
