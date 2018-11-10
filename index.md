@@ -3,8 +3,7 @@
 
 
 ### Job Openings
-[Two Postdocs]({{ site.baseurl }}{% post_url 2018-11-09-two-postdoc %}
-) and [Two PhD Students]({{ site.baseurl }}{% post_url 2018-11-09-two-phd %} are Needed!
+[Two Postdocs]({{ site.baseurl }}{% post_url 2018-11-09-two-postdoc %}) and [Two PhD Students]({{ site.baseurl }}{% post_url 2018-11-09-two-phd %}) are Needed!
 
 Please contact me for details: bcao2@ualberta.ca.
 
