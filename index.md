@@ -3,7 +3,7 @@
 
 
 ### Job Openings
-[Two Postdocs](https://cychiatry.github.io/doc/postdoc.md) and [Two PhD Students](https://github.com/cychiatry/cychiatry.github.io/blob/master/doc/phd.md) are Needed!
+[Two Postdocs](https://cychiatry.github.io/doc/postdoc.md) and [Two PhD Students](https://cychiatry.github.io/doc/phd.md) are Needed!
 
 Please contact me for details: bcao2@ualberta.ca.
 
