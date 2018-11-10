@@ -5,12 +5,7 @@
 ## Job Openings
 [Two Postdocs](https://github.com/cychiatry/cychiatry.github.io/blob/master/doc/postdoc.md) and [Two PhD Students](https://github.com/cychiatry/cychiatry.github.io/blob/master/doc/phd.md) are Needed!
 
-Please check the advertisement below and contact me for details: bcao2@ualberta.ca.
-
-<embed src="https://cychiatry.github.io/Cao post doc advertisement 10262018.pdf" type="application/pdf" />
-
-<embed src="https://cychiatry.github.io/Cao phd advertisement 10262018.pdf" type="application/pdf" />
-
+Please contact me for details: bcao2@ualberta.ca.
 
 
 ## About the PI: Bo "Cloud" Cao
