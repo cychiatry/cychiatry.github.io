@@ -9,7 +9,7 @@ Two Postdoc Positions in Computational Psychiatry are Available!
 
   2. [Postdoc position on Neuroimaging, Genetics and Cognition](https://cychiatry.github.io/Cao_postdoc_neurogenetics_20190716.pdf)
 
-[Two PhD Students](https://cychiatry.github.io/Cao_phd_20190719.pdf) are Available!.
+[Two PhD Student Positions](https://cychiatry.github.io/Cao_phd_20190719.pdf) are Available!.
 
 Please click the links above or contact me for details: bcao2@ualberta.ca.
 
