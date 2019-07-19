@@ -3,7 +3,7 @@
 
 
 ### Job Openings
-[Two Postdocs](https://cychiatry.github.io/Cao_postdoc_20181109.pdf) and [Two PhD Students](https://cychiatry.github.io/Cao_phd_20181109.pdf) are Needed!
+Two Postdoc Positions in Computational Psychiatry, [One focusing on AI in Electronic Health Records](https://cychiatry.github.io/Cao_postdoc_EHR_20190716.pdf) and [One focusing on Neuroimaging, Genetics and Cognition](https://cychiatry.github.io/Cao_postdoc_neurogenetics_20190716.pdf), and [Two PhD Students](https://cychiatry.github.io/Cao_phd_20190719.pdf).
 
 Please click the links above or contact me for details: bcao2@ualberta.ca.
 
