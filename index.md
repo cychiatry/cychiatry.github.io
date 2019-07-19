@@ -16,6 +16,7 @@ Please click the links above or contact me for details: bcao2@ualberta.ca.
 
 ### About the PI: Bo "Cloud" Cao
 [Google Scholar](https://scholar.google.ca/citations?user=GsGWZBgAAAAJ&hl=en)
+
 [Institution Webpage](https://www.ualberta.ca/medicine/about/people/bo-cao)
 
 Trained in mathematics (BSc), psychology (MSc), computational neuroscience (PhD), neuroimaging and psychiatry (postdoc), I have a strong passion for understanding the fundamental mechanisms of how the brain works and how to cure the brain when the mechanisms are disturbed. I am always seeking young talents to work with as graduate students (Masters and PhD) and postdoctoral fellows. Please feel free to contact me if you are interested in joining our interdisciplinary group or collaborations.
